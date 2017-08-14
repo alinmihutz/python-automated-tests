@@ -1,0 +1,149 @@
+at:
+    - site: lovescout24
+      brand: friendscout24
+be:
+    - site: amoureux.meetic
+      brand: meetic
+    - site: fr.meetic
+      brand: meetic
+    - site: meetic.zita
+      brand: meetic
+    - site: nl.meetic
+      brand: meetic
+ch:
+    - site: amoureux.meetic
+      brand: meetic
+    - site: bluewin.lovescout24
+      brand: friendscout24
+    - site: fr.meetic
+      brand: meetic
+    - site: gmx.lovescout24
+      brand: friendscout24
+    - site: lovescout24
+      brand: friendscout24
+    - site: meetic.fr.aol
+      brand: meetic
+com:
+    - site: aol.datingdirect
+      brand: meetic
+    - site: loaded.datingdirect
+      brand: meetic
+    - site: now.datingdirect
+      brand: meetic
+    - site: orangeuk.datingdirect
+      brand: meetic
+    - site: talktalk.datingdirect
+      brand: meetic
+    - site: conoscimi.incontrichanne
+      brand: meetic
+    - site: uk.match
+      brand: meetic
+    - site: datingdirect
+      brand: meetic
+    - site: dk.match
+      brand: meetic
+    - site: e-kontakt.dk.match
+      brand: meetic
+    - site: fi.match
+      brand: meetic
+    - site: ie.match
+      brand: meetic
+    - site: nlms.match
+      brand: meetic
+    - site: no.match
+      brand: meetic
+    - site: se.match
+      brand: meetic
+    - site: e-kontakt.se.match
+      brand: meetic
+    - site: spraydate.se.match
+      brand: meetic
+    - site: sol.match
+      brand: meetic
+    - site: startsiden.match
+      brand: meetic
+    - site: gay.uk.match
+      brand: meetic
+de:
+    - site: 1und1.lovescout24
+      brand: friendscout24
+    - site: computerbild.lovescout24
+      brand: friendscout24
+    - site: erdbeerlounge.lovescout24
+      brand: friendscout24
+    - site: fitforfun.lovescout24
+      brand: friendscout24
+    - site: flirtaktuell.lovescout24
+      brand: friendscout24
+    - site: gmx.lovescout24
+      brand: friendscout24
+    - site: meinestadt.lovescout24
+      brand: friendscout24
+    - site: top.lovescout24
+      brand: friendscout24
+    - site: lovescout24
+      brand: friendscout24
+    - site: meinestadt.neu
+      brand: neu
+    - site: neu
+      brand: neu
+    - site: partner
+      brand: neu
+    - site: singles.rtl2
+      brand: neu
+    - site: singles
+      brand: neu
+es:
+    - site: amoureux.meetic
+      brand: meetic
+    - site: friendscout24.meetic
+      brand: friendscout24
+    - site: vanitygay.meetic
+      brand: meetic
+    - site: meetic
+      brand: meetic
+    - site: flechados
+      brand: meetic
+fr:
+    - site: orange.meetic
+      brand: meetic
+    - site: rtg3j.meetic
+      brand: meetic
+    - site: rtg24h.meetic
+      brand: meetic
+    - site: meetic
+      brand: meetic
+    - site: meeticgay
+      brand: meetic
+it:
+    - site: meetic.aol
+      brand: meetic
+    - site: meetic.libero
+      brand: meetic
+    - site: meetic
+      brand: meetic
+    - site: trovamore.libero
+      brand: meetic
+    - site: friendscout24.meetic
+      brand: friendscout24
+    - site: gay.meetic
+      brand: meetic
+    - site: incontri.secondamano
+      brand: meetic
+    - site: incontri.tiscali
+      brand: meetic
+    - site: incontri.tuttogratis
+      brand: meetic
+    - site: meetic.virgilio
+      brand: meetic
+net:
+    - site: meetic.radiomontecarlo
+      brand: meetic
+nl:
+    - site: friendscout24.lexa
+      brand: friendscout24
+    - site: lexa
+      brand: meetic
+pt:
+    - site: meetic
+      brand: meetic

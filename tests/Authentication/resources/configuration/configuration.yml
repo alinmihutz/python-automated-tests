@@ -1,0 +1,5 @@
+executable: tests.Authentication.AuthenticationExecutableTest.AuthenticationExecutableTest
+
+environment: prod
+
+driver: 'phantomjs'

@@ -1,0 +1,12 @@
+##############
+# Test Cases #
+##############
+
+Authentication:
+    status: enabled
+
+Registration:
+    status: disabled
+
+Dateroulette:
+    status: disabled

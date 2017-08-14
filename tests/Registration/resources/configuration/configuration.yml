@@ -1,0 +1,9 @@
+executable: tests.Registration.RegistrationExecutableTest.RegistrationExecutableTest
+
+environment: prod
+
+#driver: 'PhantomJs'
+driver: 'CHROME'
+
+external_resources:
+    - registration

@@ -1,0 +1,5 @@
+executable: tests.Dateroulette.DaterouletteExecutableTest.DaterouletteExecutableTest
+
+environment: recette
+
+driver: 'PhantomJs'

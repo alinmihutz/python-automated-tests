@@ -1,0 +1,20 @@
+landing: 'Meetic'
+kvk_wm: '21' #femme cherchant un homme
+kvk_mw: '12' #homme cherchant une femme
+kvk_ww: '22' #femme cherchant une femme
+kvk_mm: '11' #homme cherchant un homme
+kvk_man_code: '1'
+kvk_woman_code: '2'
+#used by landings with a single kvk select
+kvk: 'wm'
+#used by landings with profile and search kvk select lists
+kvk_profile: 'man'
+kvk_search: 'woman'
+age: 30
+birth_day: '1'
+birth_month: '1'
+birth_year: '1990'
+ville: 'Cluj'
+pseudo: 'Rocky'
+email: 'rocky@profile-finder.ilius.net'
+password: '1111Qqqq'

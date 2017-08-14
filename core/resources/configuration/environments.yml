@@ -1,0 +1,33 @@
+dev:
+    preHost: amihut.
+    postHost: .dev
+    apiService:
+        url: api-services
+        userName: webdating
+        password: webdating
+    microService:
+        url: api-private
+        userName: webdating
+        password: webdating
+recette:
+    preHost: amihut.
+    postHost: .recette
+    apiService:
+        url: api-services
+        userName: webdating
+        password: webdating
+    microService:
+        url: api-private
+        userName: webdating
+        password: webdating
+prod:
+    preHost:
+    postHost:
+    apiService:
+        url: api-services
+        userName: webdating
+        password: webdating
+    microService:
+        url: api-private
+        userName: webdating
+        password: webdating
