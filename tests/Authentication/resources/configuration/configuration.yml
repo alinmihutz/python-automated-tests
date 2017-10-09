@@ -2,4 +2,4 @@ executable: tests.Authentication.AuthenticationExecutableTest.AuthenticationExec
 
 environment: prod
 
-driver: 'phantomjs'
+driver: 'Chrome'

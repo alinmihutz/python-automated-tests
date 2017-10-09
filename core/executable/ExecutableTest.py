@@ -4,6 +4,7 @@ import unittest
 from datetime import datetime
 
 from core.utils.DriverFactory import DriverFactory
+from core.utils.resources.UrlFactory import UrlFactory
 from core.utils.user.UserFactory import UserFactory
 from core.worker.WorkItemFactory import WorkItemFactory
 
@@ -24,7 +25,7 @@ class ExecutableTest(unittest.TestCase):
         self.work_item = work_item_factory.create_work_item(self.get_test_name())
         self.web_driver = DriverFactory.get_driver_instance(self.work_item.test_configuration['driver'])
         self.environment = self.work_item.environment(self.work_item.test_configuration['environment'])
-        self.user = user_factory.create_man_looking_for_woman_user(self.work_item.external_resources['users'])
+        self.user = user_factory.create_user(self.work_item.external_resources['users'])
         self.screenshots_reports_files_absolute_path = os.getcwd() + '/reports/screenshots/'
         self.timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 
@@ -43,3 +44,10 @@ class ExecutableTest(unittest.TestCase):
         :return: string
         """
         return re.findall('[A-Z][^A-Z]*', self.__class__.__name__)[0]
+
+    def get_test_url(self, site_name, site_domain):
+        return UrlFactory.construct_url(
+            self.environment.preHost,
+            site_name + '.' + site_domain,
+            self.environment.postHost
+        )

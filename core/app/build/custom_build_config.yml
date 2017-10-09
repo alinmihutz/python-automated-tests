@@ -1,12 +1,17 @@
-env: recette #options: dev, recette, prod
+env: prod #options: dev, recette, prod
 api_user: litudor.
 sites:
   - fr:
     - site: meetic
       brand: meetic
+      fr: fr
+    - site: meetic
+      brand: meetic
+      fr: fr
   - es:
     - site: meetic
       brand: meetic
+      es: es
 users:
    - HF: ['hf@meetic.fr', '1234', 'meetic']
 
